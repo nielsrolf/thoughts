@@ -8,5 +8,5 @@ In order to compute it just loads all the state `s(t)` from the cache into memor
 Will this replay of a cached computation generate a subjective feeling of existing in the same way as our feeling of existing? What happens if only a few time steps are cached, and the intermediate steps are calculated?
 
 I am not entirely sure about the implications that a continous time has on this.
-Our digital computers could neither simulate nor cache a trajectory of a universe with continous time, but I'd guess other physical processes can be used to build a continous time computer (the obvious one being the complete system itself as a computation of in which state it will be at time `t`).
+Our digital computers could neither simulate nor cache a trajectory of a universe with continous time, but I'd guess other physical processes can be used to build a continous time computer (the obvious one being the complete system itself as a computation of its own state at time `t`).
 However, I cannot imagine how you can transform the state/memory of the computer in continous time without there being the same causal process, so I have a feeling that replaying a cached memory of a cintous time computation would boil down to actually doing the computation again, but I'm not sure.
