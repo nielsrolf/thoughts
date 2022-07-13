@@ -7,6 +7,7 @@ The simulation arguments states (from wikipedia):
 - (1) the human species is very likely to go extinct before reaching a posthuman stage;
 - (2) any posthuman civilization is extremely unlikely to run a significant number of simulations of their evolutionary history (or variations thereof);
 - (3) we are almost certainly living in a computer simulation."
+
 I would argue that there is a 4th more likely option:
 - (4) the combined number of thoughts by minds in all simulated universes is much smaller than the total number of thoughts by minds of the parent universe
 
