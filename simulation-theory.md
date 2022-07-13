@@ -9,6 +9,7 @@ The simulation arguments states (from wikipedia):
 - (3) we are almost certainly living in a computer simulation."
 I would argue that there is a 4th more likely option:
 - (4) the combined number of thoughts by minds in all simulated universes is much smaller than the total number of thoughts by minds of the parent universe
+
 Whether or not (4) is likely true depends on the assumption that electrons and protons and all that stuff actually exists and that our consciousness is a result of evolution.
 If this is the case, then a computer in the parent universe must live in a universe many magnitudes more entropy, more different states, more stuff happening, and therefore the same order of magnitudes more chances for evolution or other processes to create structures that have a mind.
 All I really know is that I am a mind and I am having the thought about whether or not I am living in a simulation.
