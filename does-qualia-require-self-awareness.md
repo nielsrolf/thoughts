@@ -1,5 +1,5 @@
 # Qualia probably doesn't require that much intelligence or self-awareness
-![The mind of the pig](img/qualia.png =400x400)
+![The mind of the pig](img/qualia.png)
 There is a popular believe that qualia emerges as a side effect of intelligence, consciousness or self-awareness.
 From wikipedia: In philosophy of mind, qualia are defined as individual instances of subjective, conscious experience.
 A particularly interesting property of qualia are that they can be good/pleasant or bad, and as a utilitarian I basically want to maximize the good qualia that exists, so finding out what has it and what not has huge implications.
