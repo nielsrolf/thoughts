@@ -1,4 +1,5 @@
 # What does reality mean?
+![Niagara falls, ukiyo-estyle by Kandinsky](img/reality.png)
 In first instance, I only experience my consciousness.
 This observes coherent experiences that make me believe in an outside world:
 if I see water, the believe that there is something - water - that feels in a certain way and tastes a certain way and still exists in a later time unless I drink it - is the much simpler explanation of the world than all these water related experiences being independently produced in my mind without an outside world.

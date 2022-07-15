@@ -1,4 +1,5 @@
 # How likely is it that we are living in a simulation?
+![An octopus in the style of Magritte](img/simulation.png)
 The simulation hypothesis states that there exists a parent universe in which a computer simulates the observable universe.
 If this is true, then for every distiguishable state of our universe, there has to be at least one distinguishable state of the parent universe, because one state of the computer can at most represent one state of our universe.
 Assuming that the computer is not the only thing that exists in the parent universe, but there exist other things that can be in different states, we can assume that the entropy of the parent universe must be much larger than the entropy of our universe.

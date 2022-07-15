@@ -1,4 +1,5 @@
 # If the universe is computational, can a movie be sentient?
+![dali inspired clocks](img/movie.png)
 If we assume that consciousness is computational (which is implied if we believe that the universe is computational), we believe that there exists a function that, if computed, produces a subjective feeling of existing.
 
 Let's define the state of a computer that computes this function at time `t` as `s(t)`.
