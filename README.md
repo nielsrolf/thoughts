@@ -6,7 +6,6 @@
 
 ## todo
 - science, utilitarianism and the missing gap of objective levels of happiness and suffering
-- bijections between world models and why it means the same that the universe is a computation and that the universe is made out of stuff
 - longtermism - if we assume there is a minimal chance x of everything dying per year, then we should use `(1-x)^t` as a discount factor in our utility function, exactly how it is done in reinforcement learning. Therefore, future utility is likely not as vast.
 - utilitarianism: is the ethics with the least arbitrary assumptions - how would you act if you would experience the universe from the perspective of everyone and everything one after the other
 - non-discrete computations - can we say the universe is computational if time is continous? Can we define a computational model for non-discrete inputs, outputs and states?
@@ -44,3 +43,8 @@ On the other hand, for a machine learning model that is delibaretly built to mod
 I am still not convinced that this is the same as the subjective experience of existence, or that self-awareness and consciousness are required to be in a happy or in a suffering qualia.
 If you have ever had a nightmare or an intense trip or meditated very successfully, you have been in happy or unhappy states of mind in a time where your brain did not model itself as part of the universe and certainly did not model or regulate its own attention. A moment in which your body is flooded by happy hormones feels happy, but you don't reflect on who you are in relationship to the universe or think anything else that relates to your self or your own attention. It feels more like happiness or suffering is a phenomenon that is happening in the body or very self-unaware parts of the mind.
 Therefore I believe that the ability to experience emotions does not require very high levels of intelligence or self-awareness. Unfortunately, I also don't know under what objectively definable conditions happiness or suffering occur.
+
+### Different metaphors to describe our universe
+- the universe if a physical one that is fundamentally made up of energy, matter and all that stuff. Every observer interacts with events within their event horizon
+- the universe is a sequence of probability distributions over states at different times, and physics describe the state transition function. For every observer, few parts of the states distribution are collapsed because they are known, but events in the past, future or far away are unobserved and in the maximum entropy state. Reality is the set of possible states that have a positive probability for all observers
+These models of the universe can be formulated such that they make exactly the same predictions about the world and are in some sense equivalent. Every statement that is formulated in the framework of 1) can be translated into an equivalent statement in the framework of 2), and therefore they are not really different theories about what the universe is.
