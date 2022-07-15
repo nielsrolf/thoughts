@@ -1,7 +1,7 @@
 # thoughts
 
 - [What is reality?](reality.md)
-- [Do we live in a simulation?](simulaiton-theory.md)
+- [Do we live in a simulation?](simulation-theory.md)
 - [Can a movie be sentient?](sentient-movie.md)
 
 ## todo
