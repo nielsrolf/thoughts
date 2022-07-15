@@ -1,5 +1,5 @@
 # Arbitrary boundaries of definitions in a fluid world give a wrong impression of discrete things
-![Fishes in the style of Escher](img/confused.png)
+![Fishes in the style of Escher](img/confused.png =400x400)
 There are people who believe something along the lines of "a human has sentience or moral value and other animals don't have it. There is a fundamental difference between humans and other animals."
 
 This idea has a weird consequence: imagine you line up your line of ancestors until you arrive at the last common ancestor of yourself and a chicken. I you believe in a binary property of being human that is associated with important features like having moral value, you must believe that somewhere in your line of ancestors there was a human child born to nonhuman parents. This human child had all the magical properties that we attribute to humans, and their parents were mere animals without these attributes. This is an absurd thought that only sounds plausible because we like to think in discrete categories, even if they are just a convenience to describe the fluid world around us.
