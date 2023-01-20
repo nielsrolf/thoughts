@@ -1,5 +1,4 @@
 # thoughts
-![The mind of the pig is full of curiosity and emition](img/curious-pig.png)
 I write down random thoughts I have, mostly for myself but if anyone is interested also for them.
 
 - [What is reality?](reality.md)
