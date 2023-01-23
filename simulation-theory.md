@@ -19,6 +19,10 @@ It doesn't really matter how many simulations there are - their combined computa
 This argument would become invalid if we believe that the number of thoughts per entropy is much larger than in the parent universe - for example because the parent universe is made out of atoms and contains many details that are not necessary to produce thoughts, but our universe is a simulation of minds more directly, and all the other stuff we observe isn't actually real and only computed when we look.
 At this point it becomes a bit hard not to make more assumptions about the parent universe - but if we imagine a human like civilization that would like to learn something by observing a simulation, then it seems completely unnecessary to include such details at all.
 
+---
+**Update**: Most arguments in favor of simulations reasonably assume that we are something like 'ancestor simulations' that specifically model us, and therefore we did not evolve from evolution, and therefore the entropy argument does not hold anymore.
+This could be true but one observation makes this a bit less likely: it seems that our intelligence emerges from the brain, and we can study people with various brain damages and we can study the effect of drugs, and it seems that thinking really happens in the brain. A simulated RL agent will find themself in a different situation, where their brain is not part of the simulation.
+
 
 References:
 - http://bach.ai/Do-we-live-in-a-simulation/
