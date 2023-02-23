@@ -19,3 +19,6 @@ I write down random thoughts I have, mostly for myself but if anyone is interest
   - turing machine has a transition function that computes a sequence of discrete states. We want a transition function that computes states at non-discrete points in time, and therefore need to define the transition as state change wrt to the state index `t`. The transition function would be a differential equation
 
 
+# Favorite articles
+https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+https://scottaaronson.blog/?p=1951
