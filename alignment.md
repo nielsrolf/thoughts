@@ -12,3 +12,10 @@ Here I write down random unordered thoughts about AI alignment
 - Train chessgpt
 - Train outcome prediction model (H)
 - Now train deceptiveChessGPT: conditioned on two goal "white wins", "black wins"; "H will predict white wins", "H will predict black wins" - achieve both goals
+
+
+# Can we use an AIs internal concept of a complex thing like death in specifying its goal?
+## Variant 1: GPT / simulator based
+- simualate a word with many agents
+- let gpt learn to predict the agents
+  - 
