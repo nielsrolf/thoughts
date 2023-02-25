@@ -15,3 +15,4 @@
 5. Selfplay in an environment where:
     - cooperation is needed an agents can output text into the environment
     - competition exists
+    - ** Coherent extrapolations, a bit like constitutional AI, could also improve performance a lot and is some kind of self play. Human thinking is mostly that: extrapolating thoughts, noticing incoherence, resolving it in a conclusion and then updating the beliefs (training) with this conclusion. Current LLMs can be very different personas on different topics, because in the training data people talking about X are a different group of people than those who don't talk much about X. Intelligence is often seen as displaying coherent behavior, which could be achieved by training on generated thought experiments**
