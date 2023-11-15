@@ -3,7 +3,7 @@ I write down random thoughts I have, mostly for myself but if anyone is interest
 
 - [What is reality?](reality.md)
 - [Do we live in a simulation?](simulation-theory.md)
-- [Can a movie be sentient?](sentient-movie.md)
+- [One weird implication of computational consciousness](sentient-movie.md)
 - [What are emotions?](emotions.md)
 - [Different metaphors to describe our universe](different-metaphor-same-model.md)
 - [Arbitrary boundaries of definitions in a fluid world give a wrong impression of discrete things](discrete-concepts-in-a-fluid-world.md)
