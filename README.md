@@ -17,5 +17,6 @@ I write down random thoughts I have, mostly for myself but if anyone is interest
 - utilitarianism: is the ethics with the least arbitrary assumptions - how would you act if you would experience the universe from the perspective of everyone and everything one after the other
 - non-discrete computations - can we say the universe is computational if time is continous? Can we define a computational model for non-discrete inputs, outputs and states?
   - turing machine has a transition function that computes a sequence of discrete states. We want a transition function that computes states at non-discrete points in time, and therefore need to define the transition as state change wrt to the state index `t`. The transition function would be a differential equation
-
+- [the 'what is consciousness' miro board](https://miro.com/app/board/uXjVMtbLEJw=/?share_link_id=755750042563)
+  [![consciousness miro board](consciousness.png)](https://miro.com/app/board/uXjVMtbLEJw=/?share_link_id=755750042563)
 
