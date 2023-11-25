@@ -16,3 +16,8 @@ So, how can we approach this question? We can start by trying to describe emotio
     - other goals are usually instrumental to experiencing these feelings
 
 At the moment, this is all that comes to my mind and not enough to answer the opening question.
+
+---
+New theory dropped: the function of emotions as a mechanism of regulating short-term goals is easily explained by evolution, but it is not obvious how this explains why I become less friendly when I feel hungry. A rational agent would simply figure out the best way to eat when it notices that it needs to eat, and only be less friendly if that is somehow helpful for getting a meal. However, our ancestors had to eat and feel hungry at adequate intervals long before they had big brains that would allow them to think rationally. If we model our ancestors very roughly as computationally bounded agents, it makes sense that a mechanism that regulates goals is tightly coupled with the policy. So we should check: is the type of behavior that emotions elicit the type of behavior that might have been a good heuristic for survival for our less intelligent distant ancestors?
+- being hungry makes many people more hostile: could honestly go either way: if competition for food with humans near you was a common this makes sense, but if since cooperation was probably also often useful for getting a meal you could also expect to feel especially social when hungry
+- the effects on overall activity seem to fit this story
