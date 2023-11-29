@@ -39,7 +39,7 @@ Would it be possible to simulate our experiences using much less computation and
 
 There are some ways in which we can test if our environment performs a lot of computations outside of our brains: processes that are computationally hard to simulate but easy for us to verify. Some processes that we observe that fit into this category include:
 - Fluid dynamics - we can perform repeated experiments of fluids and observe that they behave in a consistent way that is computationally hard to simulate
-We can build a large number of chaotic pendula, run them for a long time, and randomly check on one of them later to validate that the simulators didn’t cheat and just set the pendulum to a random state that looks plausible enough to us
+- We can build a large number of chaotic pendula, run them for a long time, and randomly check on one of them later to validate that the simulators didn’t cheat and just set the pendulum to a random state that looks plausible enough to us
 - Evolution - however, simulators might be able to seed a simulation with the outcome of an evolutionary process of their home universe
 - Actual computers built from silicon - these computers can run proof-of-work algorithms, or train AI models, or run all the other computationally intense programs we run on them. A simulation that spends little computation on physics would not allow many such computers.
 - Probably a lot of other processes in quantum mechanics, microbiology, or chaotical system
