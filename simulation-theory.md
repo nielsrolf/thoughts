@@ -72,7 +72,8 @@ We might also try to initiate communication with the simulators and convince the
 - The simulators value complexity or sentience, or some other property that our universe has. Our universe has intrinsic value to them because it produces these valued properties.
 - (On a side note, I give higher credence to this explanation in moments of extreme happiness - those seem like the experiences I would simulate if I had the ability.) 
 - The simulators want to learn something - this seems like a plausible reason for a posthuman civilization to run ancestor simulations
-- In both cases, our actions can affect the value of our simulation to the simulators. A very speculative consequence might be that we should try to keep any rate of change low: if the universe right now is to the simulator's satisfaction, and we don’t know anything else about them, maybe we should not change it too much and risk that they lose interest in keeping it running.
+
+In both cases, our actions can affect the value of our simulation to the simulators. A very speculative consequence might be that we should try to keep any rate of change low: if the universe right now is to the simulator's satisfaction, and we don’t know anything else about them, maybe we should not change it too much and risk that they lose interest in keeping it running.
 
 Another plausible (but not necessarily probable) goal of the simulators might be to learn about how e.g. AI alignment will turn out. That can again be viewed as a reason to keep change rates low and slow down AI research because as soon as the simulators find out what they want, continuing to simulate us may no longer be in their interest.
 
