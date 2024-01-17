@@ -8,6 +8,7 @@ I write down random thoughts I have, mostly for myself but if anyone is interest
 - [Qualia probably doesn't require that much intelligence or self-awareness](does-qualia-require-self-awareness.md)
 - [Do we live in a simulation?](simulation-theory.md)
 - [What is reality?](reality.md)
+- [The basics: epistemics, ontology, meta ethics, utilitarianism](summary.md)
 - [How crazy information flow between humans changed](information-network.md)
 - [Different metaphors to describe our universe](different-metaphor-same-model.md)
 - [Arbitrary boundaries of definitions in a fluid world give a wrong impression of discrete things](discrete-concepts-in-a-fluid-world.md)
