@@ -22,5 +22,6 @@ I write down random thoughts I have, mostly for myself but if anyone is interest
   [![consciousness miro board](consciousness.png)](https://miro.com/app/board/uXjVMtbLEJw=/?share_link_id=755750042563)
 
 # Favorite articles
-https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
-https://scottaaronson.blog/?p=1951
+- https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+- https://scottaaronson.blog/?p=1951
+- everything by Michael Levin
