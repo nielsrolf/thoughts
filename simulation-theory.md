@@ -17,10 +17,7 @@ We can think of two different types of simulations: physics-based and mind-based
 
 ## Computational limits of physics-based simulations
 Let’s consider the information storage and computational resources needed to run a physics-based simulation. For any two distinguishable states of a simulation, there must be at least two distinguishable states of the computer running the simulation. Therefore, the bits needed to describe the state of the computer in its universe must be at least as many as the total entropy of the simulated universe. Similarly, if the simulation can compute function x, the parent universe also computes x via the simulation. Therefore, the total computational power of the simulation is smaller than that of its parent. Note that this does not rely on any specific physical laws of our universe, it follows purely from information-theoretic arguments.
-<<<<<<< HEAD
-=======
 
->>>>>>> 05a96908da9b4a75054e5215ea8b6190dc30b0c4
 As a consequence, any civilization running a physics simulation can only simulate a universe with smaller total computational power and entropy than available to them in their own universe. If we make the assumption that the root universe is unlikely to spend most of its computational power and entropy on running simulations, we should conclude that much more is happening in the root universe than in all simulated ones combined.
 
 The simulation argument hinges not on the ratio of expected simulations to root universes, it hinges on the expected ratio of simulated minds to minds that exist in the root universe. If a physics simulation and its parent use a similar percentage of their respective computations to produce minds that ponder the simulation argument, this ratio strongly favors the hypothesis that we are in the root universe - where most of the entropy and computations happen.
@@ -75,6 +72,7 @@ We might also try to initiate communication with the simulators and convince the
 - The simulators value complexity or sentience, or some other property that our universe has. Our universe has intrinsic value to them because it produces these valued properties.
 - (On a side note, I give higher credence to this explanation in moments of extreme happiness - those seem like the experiences I would simulate if I had the ability.) 
 - The simulators want to learn something - this seems like a plausible reason for a posthuman civilization to run ancestor simulations
+
 In both cases, our actions can affect the value of our simulation to the simulators. A very speculative consequence might be that we should try to keep any rate of change low: if the universe right now is to the simulator's satisfaction, and we don’t know anything else about them, maybe we should not change it too much and risk that they lose interest in keeping it running.
 
 Another plausible (but not necessarily probable) goal of the simulators might be to learn about how e.g. AI alignment will turn out. That can again be viewed as a reason to keep change rates low and slow down AI research because as soon as the simulators find out what they want, continuing to simulate us may no longer be in their interest.
